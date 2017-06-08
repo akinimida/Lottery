@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Lottery</string>
+    <string name="title_activity_main">Loteria</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_visit_lotto">Strona Lotto</string>
+    <string name="action_rewards">Aktualne nagrody</string>
+    <string name="action_check">Sprawdź swoje wyniki</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="choose_lottery">Wybierz losowanie</string>
+    <string name="shake_text">Potrząśnij telefonem by wylosować ponownie</string>
+    <string name="check_text">Sprawdź swoje numery</string>
+    <string name="confirm_text">Zatwierdź</string>
+    <string name="check_numbers">Zaznacz swoje numery</string>
+    <string name="result_title">Trafiłeś</string>
+    <string name="rewards_title">Nagrody w loterii</string>
+    
+    
+    <string name="lottery_1">5 z 42</string>
+    <string name="lottery_2">6 z 49</string>
+    <string name="lottery_3">20 z 80</string>
+</resources>
